@@ -1,0 +1,9 @@
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\bin\Debug\test0906_ReadWriteFile.exe.config
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\bin\Debug\test0906_ReadWriteFile.exe
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\bin\Debug\test0906_ReadWriteFile.pdb
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.csprojResolveAssemblyReference.cache
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.Form1.resources
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.Properties.Resources.resources
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.csproj.GenerateResource.Cache
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.exe
+D:\LABC#\test0906_ReadWriteFile\test0906_ReadWriteFile\obj\Debug\test0906_ReadWriteFile.pdb
